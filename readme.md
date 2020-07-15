@@ -1,3 +1,3 @@
 # Dashboard
 
-![print do Dashboard](./assets/img/print_dashborad.png)
+![print do Dashboard](https://github.com/AguiarVicente/dashboard/blob/master/assets/img/print_dashboard.png)
